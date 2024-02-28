@@ -1,4 +1,3 @@
-import { AlignBottom } from "phosphor-react";
 import styled from "styled-components";
 
 export const HistoryContainer = styled.main`
